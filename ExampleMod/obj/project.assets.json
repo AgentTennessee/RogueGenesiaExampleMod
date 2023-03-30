@@ -8,23 +8,19 @@
     ".NETFramework,Version=v4.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PLEXUS\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\miste\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Q:\\RogueGenesiaExampleMod\\ExampleMod\\ExampleMod.csproj",
-      "projectName": "ExampleMod",
-      "projectPath": "Q:\\RogueGenesiaExampleMod\\ExampleMod\\ExampleMod.csproj",
-      "packagesPath": "C:\\Users\\PLEXUS\\.nuget\\packages\\",
-      "outputPath": "Q:\\RogueGenesiaExampleMod\\ExampleMod\\obj\\",
+      "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\TrailMix.csproj",
+      "projectName": "TrailMix",
+      "projectPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\TrailMix.csproj",
+      "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PLEXUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -49,7 +45,7 @@
     "frameworks": {
       "net40": {
         "targetAlias": "net4.0",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

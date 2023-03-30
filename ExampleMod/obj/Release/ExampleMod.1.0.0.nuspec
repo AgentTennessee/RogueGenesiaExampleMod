@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExampleMod</id>
+    <version>1.0.0</version>
+    <authors>ExampleMod</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\miste\source\repos\PlexusDuMenton\RogueGenesiaExampleMod\ExampleMod\bin\Release\net4.0\ExampleMod.dll" target="lib\net40\ExampleMod.dll" />
+  </files>
+</package>

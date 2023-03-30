@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\SimpleMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\SimpleMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\SimpleMod.csproj",
+        "projectName": "SimpleMod",
+        "projectPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\SimpleMod.csproj",
+        "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "targetAlias": "net4.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "targetAlias": "net4.0",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

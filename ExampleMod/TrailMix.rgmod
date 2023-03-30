@@ -1,0 +1,22 @@
+{
+  "Author": "Agent",
+  "DisplayedDescription": [
+    {
+      "Key": "en",
+      "Value": "Best pieces for an adventure! Enjoy your favorite travel snacks as you're on the move."
+    }
+  ],
+  "DisplayedName": [
+    {
+      "Key": "en",
+      "Value": "Trail Mix"
+    }
+  ],
+  "HardDependencies": [],
+  "ID": "Agent.TrailMix",
+  "Name": "Trail Mix",
+  "SoftDependencies": [],
+  "Tags": [ "snacks", "adventure", "buff", "food" ],
+  "Version": "0.1",
+  "WorkshopID": ""
+}
