@@ -1,4 +1,4 @@
-# RogueGenesiaExampleMod
-Example mod for Rogue: Genesia you can download
+# TrailMix!
+A mod that adds all the individual pieces of trail mix to the game Rogue: Genesia https://store.steampowered.com/app/2067920/Rogue_Genesia/
 
-It contain an example on how to make a mod, create 2 different card and a weapon
+I could decide what I wanted to try making for the game so I decided on a bunch of dash related cards. I'm using trail mix pieces as the names for not particular reason.
