@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\TrailMix.csproj",
+      "projectUniqueName": "C:\\Users\\miste\\source\\repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\TrailMix\\TrailMix.csproj",
       "projectName": "TrailMix",
-      "projectPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\TrailMix.csproj",
+      "projectPath": "C:\\Users\\miste\\source\\repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\TrailMix\\TrailMix.csproj",
       "packagesPath": "C:\\Users\\miste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miste\\Source\\Repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\ExampleMod\\obj\\",
+      "outputPath": "C:\\Users\\miste\\source\\repos\\PlexusDuMenton\\RogueGenesiaExampleMod\\TrailMix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miste\\AppData\\Roaming\\NuGet\\NuGet.Config",
